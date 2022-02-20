@@ -1,7 +1,7 @@
 {
-      "name": "Natsuki",
-      "description": "An Anime themed Telegram group management bot Natsuki.",
-      "logo": "https://telegra.ph/file/c9a53e4436c3309a5a5fd.jpg",
+      "name": "Samurai",
+      "description": "An Anime themed Telegram group management bot Samurai.",
+      "logo": "https://https://te.legra.ph/file/7e2fe426ac2dc50b56ad4.mp4",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Sadew451/Natsuki",
+   "repository": "https://github.com/Roninopp/Natsuki",
    "addons": [
       {
          "options": {
