@@ -51,7 +51,7 @@
 
 ### Deployment Dont Deploy on this URL `Deploy on Brach`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Roninopp/Natsuki.git)
 
 
 # Deploy Guide
@@ -66,21 +66,21 @@
 
 ## TeamNatsuki
 
-## Avaiilable on Telegram as [@TheNatsukiBot](https://t.me/thenatsukibot)
+## Avaiilable on Telegram as [@fantastickfighterbot](https://@Ronin_Fighters_Fd)
 
 # 🏃‍♂️ Deploy 
 ## Connect Github Cant Deploy On Url
 
-<a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><
 
 # ⚡ Support
-<a href="https://t.me/NatsukiSupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Natsuki_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/+tcRL23O_YfI2OTU1"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://https://t.me/+tcRL23O_YfI2OTU1"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) 😎
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Sadew451/Natsuki
+$ git clone https://github.com/Roninopp/Natsuki
 $ cd Natsuki
 # Upgrade sources
 $ bash deploy.sh
