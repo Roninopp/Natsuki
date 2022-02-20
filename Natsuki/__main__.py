@@ -63,22 +63,22 @@ from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 Hey There, My Name is 𝗡𝗮𝘁𝘀𝘂𝗸𝗶. 
+👋 Hey There, My Name is 𝐒𝐀𝐌𝐔𝐑𝐀𝐈. 
 I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Natsuki News 🙋‍♂️", url="https://t.me/Natsuki_Updates"
+            text="𝐒𝐀𝐌𝐔𝐑𝐀𝐈 News 🙋‍♂️", url="https://https://t.me/+tcRL23O_YfI2OTU1"
         ),
         InlineKeyboardButton(
-            text="Support Group 💬", url="https://t.me/NatsukiSupport_Official"
+            text="Support Group 💬", url="https://https://t.me/+tcRL23O_YfI2OTU1"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Source 🗒", url="Github.com/Sadew451"
+            text="Source 🗒", url="Github.com/Roninopp"
         ),
         InlineKeyboardButton(
             text="Command Help ❓", callback_data="help_back"
@@ -92,10 +92,10 @@ buttons = [
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg"
+NATSUKI_IMG = "https://https://te.legra.ph/file/7e2fe426ac2dc50b56ad4.mp4.jpng"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
+*Main Commands :* [🤖](https://https://te.legra.ph/file/7e2fe426ac2dc50b56ad4.mp4.jpg)
 
 /start: Starts me! You've probably already used this.
 /help: Click this, I'll let you know about myself!
@@ -128,7 +128,7 @@ USER_SETTINGS = {}
 GDPR = []
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("Natsuki.modules." + module_name)
+    imported_module = importlib.import_module("samurai.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -424,7 +424,7 @@ def Natsuki_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [SDBOTsInifinity](https://t.me/SDBOTs_Inifinity)."
+            f"\n\nBased on [SDBOTsInifinity](https://https://t.me/+tcRL23O_YfI2OTU1)."
             f"\n\n{dispatcher.bot.first_name}'s source code was written by Sadew Jayasekara"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
