@@ -1,6 +1,6 @@
 <h1 align="center"><b><b>❤️ Natsuki ❤️</b></b></h1>
 
-##  Fixed I'm [Natsuki](https://t.me/TheNatsukibot) 
+##  Fixed I'm [Natsuki](https://t.me/Ronin_fighters_fd) 
  
 ## Unmaintained. The new repo of [@TheNatsukiBot](https://t.me/TheNatsukibot) is `private`. 
 
